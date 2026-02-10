@@ -1,5 +1,6 @@
 import { Colors } from './Components/Colors'
 import { Header } from './Components/Header'
+import { Height } from './Components/Height'
 import { MarginAndPadding } from './Components/MarginAndPadding'
 import { Width } from './Components/Width'
 
@@ -10,6 +11,7 @@ export default function App() {
   <Colors />
   <MarginAndPadding />
   <Width />
+  <Height />
   </>
   )
 }
