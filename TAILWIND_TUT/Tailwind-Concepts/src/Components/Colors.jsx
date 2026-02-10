@@ -1,3 +1,7 @@
+// In black and white, there is no shades
+
+// decoration -> uses for giving color in underline
+
 export const Colors = () => {
     return (
         <>
