@@ -1,6 +1,7 @@
 import { Colors } from './Components/Colors'
 import { Header } from './Components/Header'
 import { MarginAndPadding } from './Components/MarginAndPadding'
+import { Width } from './Components/Width'
 
 export default function App() {
   return (
@@ -8,6 +9,7 @@ export default function App() {
   <Header />
   <Colors />
   <MarginAndPadding />
+  <Width />
   </>
   )
 }
